@@ -3,10 +3,10 @@
 ## *Cointains Dp Problems*
 #### *Parent Problem* : [Fibonacci](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/Fibonacci.java).
 SubProblems :
-1.[Minimum Steps To One](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/MinimumStepsToOne.java)
-2.[Staircase](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/StairCase.java)
-3.Reach a given Score.
-4.Count number of hops.
+1. [Minimum Steps To One](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/MinimumStepsToOne.java)
+2. [Staircase](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/StairCase.java)
+3. Reach a given Score.
+4. Count number of hops.
 
 #### *Parent Problem* : [Longest Common SubSequence](https://github.com/sahilshirodkar1630/Dynamic-Programming-/blob/main/Dynamic%20Programming/src/DP/LongestCommonSubsequence.java)
 SubProblems :
